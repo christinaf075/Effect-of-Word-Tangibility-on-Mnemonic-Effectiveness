@@ -1,0 +1,3 @@
+key_list = []
+last_len = 0
+recalldisplay = ''
