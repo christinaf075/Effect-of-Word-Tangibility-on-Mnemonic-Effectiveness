@@ -1,0 +1,10 @@
+import random
+random_value = random.choice([0,1])
+if random_value == 0:
+    RR = 1
+    II = 0
+elif random_value == 1:
+    II = 1
+    RR = 0
+
+thisExp.addData('technique_group', random_value)
