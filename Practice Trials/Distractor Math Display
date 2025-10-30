@@ -1,0 +1,6 @@
+respDisplay = ""
+maxDigits = 4
+
+#key logger defaults
+last_len = 0
+key_list = []
